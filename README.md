@@ -1,5 +1,5 @@
 # AEGIS-QNX
-
+ 
 **Autonomous Emergency Guard & Intervention Supervisor**
 
 An independent safety supervisor built on QNX SDP 8.0 and Raspberry Pi 5 that validates every autonomous driving command against real vehicle physics and forces the vehicle into a safe state within a bounded, measured deadline.
